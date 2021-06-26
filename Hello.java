@@ -3,7 +3,7 @@ public class Hello{
 	public static void main(String[] args){
 
 	for(int i=0; i<5; i++){
-	System.out.println("This is Count :"+i);
+	System.out.println("This is Count OF :"+i);
 	}
 	}
 }
